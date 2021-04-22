@@ -1,0 +1,12 @@
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/bin/Debug/netcoreapp3.1/Finally_en_CSharp.deps.json
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/bin/Debug/netcoreapp3.1/Finally_en_CSharp.runtimeconfig.json
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/bin/Debug/netcoreapp3.1/Finally_en_CSharp.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/bin/Debug/netcoreapp3.1/Finally_en_CSharp.dll
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/bin/Debug/netcoreapp3.1/Finally_en_CSharp.pdb
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/obj/Debug/netcoreapp3.1/Finally_en_CSharp.csprojAssemblyReference.cache
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/obj/Debug/netcoreapp3.1/Finally_en_CSharp.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/obj/Debug/netcoreapp3.1/Finally_en_CSharp.AssemblyInfo.cs
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/obj/Debug/netcoreapp3.1/Finally_en_CSharp.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/obj/Debug/netcoreapp3.1/Finally_en_CSharp.dll
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/obj/Debug/netcoreapp3.1/Finally_en_CSharp.pdb
+/Users/tom/Desktop/C#/Finally_en_CSharp/Finally_en_CSharp/obj/Debug/netcoreapp3.1/Finally_en_CSharp.genruntimeconfig.cache
